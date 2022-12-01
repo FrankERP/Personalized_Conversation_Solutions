@@ -1,0 +1,37 @@
+Leer TODO primero
+
+Usar Python 3.9.13 o última versión de Python 3.9
+IMPORTANTE: Verificar que la versión instalada de Python sea con 64 bits y no con 32 bits
+No se olviden cambiar el path también
+
+Instalar librerias:
+pip install SpeechRecognition
+pip install PyAudio
+pip install Wave
+pip install transformers
+pip3 install torch torchvision torchaudio
+pip install tf-nightly
+pip install sounddevice
+pip install soundfile
+pip install gtts
+pip install -U scikit-learn
+pip install regex
+pip install spacy
+pip install es-core-news-sm
+pip install yellowbrick
+
+Instalar GenSim
+pip install gensim==3.8.1
+Si sale warning con gensim sobre compilador C hacer:
+con Visual Studio descargar:
+Visual C++ Build tools core features.
+MSVC toolset C++ 2019 v142 (x86,x64)
+Visual C++ 2019 Redistributable Update (Opcional)
+Windows 10 SDK (10.0.17763.0) for Desktop C++
+Tambien descargar mingw-get-setup desde Forge e instalar desde el instalador:
+base, gcc-g++ y gcc-objc desde Basic Setup
+y luego:
+pip install gensim==3.8.3
+
+IMPORTANTE:
+Instalar todo en computadora, no utilizar ambientes, no utiliza mucha memoria

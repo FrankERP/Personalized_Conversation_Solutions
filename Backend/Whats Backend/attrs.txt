@@ -1,0 +1,5 @@
+inigopm/beto-base-spanish-squades2
+finiteautomata/beto-sentiment-analysis
+0.1
+default
+default

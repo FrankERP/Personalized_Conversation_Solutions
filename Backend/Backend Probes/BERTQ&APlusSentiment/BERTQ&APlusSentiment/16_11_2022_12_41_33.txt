@@ -1,0 +1,19 @@
+REPORTE
+Usuario ingresa al sistema
+Nombre de usuario ingresado: Jorge Iglesias
+Matrícula: A01653261
+¿Datos correctos según usuario?: sí
+¿Datos correctos según sistema?: sí
+Usuario hace preguntas al sistema
+Problema sugerido: tengo problema con mi pedido y quiero revisar cuánto tardan los envíos en ese caso
+Temas sugeridos: Pedidos, Envíos, Métodos de pago
+¿Temas correctos según usuario?: sí
+Tema seleccionado según usuario: Envíos
+tengo duda En qué tanto va a tardar mi producto importado en llegar: una semana hasta 2 meses
+¿Datos correctos según usuario?: sí
+¿Sigue usuario preguntando?: sí
+Usuario hace más preguntas al sistema
+también tenía duda En qué tanto va a tardar Si mi producto es nacional: entre 24 y 48 horas
+¿Datos correctos según usuario?: sí
+¿Sigue usuario preguntando?: no
+Sale Usuario, fin de conversación

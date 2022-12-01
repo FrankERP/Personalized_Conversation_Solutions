@@ -1,0 +1,56 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+Backend Probes/*/*/*.txt
+Backend Probes/*/*/*.wav
+Backend Probes/*/__pycache__
+Backend Probes/*/modelo/*.model
+Backend Probes/*/modelo/*.kv
+Backend Probes/*/modelo/*.npy
+Backend Probes/*/modelo/*.zip
+Backend Probes/*/modelo/*.txt
+Backend Probes/*/*/__pycache__
+!Backend Probes/Clasificador/LEER - Intrucciones para instalar modelo.txt
+
+Official Backend/*.wav
+Official Backend/*.csv
+Official Backend/*.png
+!Official Backend/DB.csv
+!Official Backend/DBC.csv
+!Official Backend/DBN.csv
+Official Backend/modelo/*.model
+Official Backend/modelo/*.kv
+Official Backend/modelo/*.npy
+Official Backend/modelo/*.zip
+Official Backend/modelo/*.txt
+Official Backend/__pycache__
+
+Whats Backend/*.csv
+!Whats Backend/DB.csv
+Whats Backend/modelo/*.model
+Whats Backend/modelo/*.kv
+Whats Backend/modelo/*.npy
+Whats Backend/modelo/*.zip
+Whats Backend/modelo/*.txt
+Whats Backend/__pycache__
